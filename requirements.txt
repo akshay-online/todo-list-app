@@ -1,1 +1,6 @@
 Flask
+Flask-SQLAlchemy
+Flask-CORS
+bcrypt
+PyJWT
+pyodbc
